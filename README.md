@@ -1,5 +1,7 @@
 # IVISION
 
+Use python3.8
+
 ## To create virtual env:
 
 `python3 -m venv /path/to/new/virtual/environment`

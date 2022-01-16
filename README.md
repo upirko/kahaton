@@ -1,6 +1,6 @@
-# kahaton Python 3.8
+# IVISION
 
-To create virtual env:
+## To create virtual env:
 
 `python3 -m venv /path/to/new/virtual/environment`
 
@@ -9,3 +9,7 @@ To create virtual env:
 bash/zsh `$ source <venv>/bin/activate`
 
 PowerShell `<venv>\Scripts\Activate.ps1`
+
+## TO RUN
+
+`python main.py /path/to/video/file`
